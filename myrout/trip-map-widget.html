@@ -1,32 +1,45 @@
 <!--блок для вставки в предназначенные для виджета элементы страницы-->
-<div class="myrout__map"></div>
-<div class="myrout__infoPanel">
-    <div  style="padding: 4px">
-        <div class="myrout__navigate-button prev btn-prev" style="float: left; padding-left: 2px"></div>
-        <div class="myrout__navigate-button next btn-next" style="float: left; padding-left: 8px"></div>
-        <div class="infoPanel.title" style="float: left; padding-left: 8px; font-weight: bold"></div>
-        <div style="clear: both"></div>
-    </div>
-    <div class="infoPanel.text" style="padding: 4px">
+<div style="position: relative; height: 100%; width: 100%">
+    <div class="myrout__map" style="z-index: 1;"></div>
+    <div style="width: 100%; position: absolute;  z-index: 2; top:0; right: 0; ">
+        <div style="background-color: rgba(255,255,255,0.7); width: 100%;">
+            <div style="padding: 4px">
+                <div class="myrout__navigate-button prev btn-prev" style="float: left; padding-left: 2px"></div>
+                <div class="myrout__navigate-button next btn-next" style="float: left; padding-left: 8px"></div>
+                <div class="infoPanel.title" style="float: left; padding-left: 8px; font-weight: bold"></div>
+                <div style="clear: both"></div>
+            </div>
+
+            <div class="infoPanel.interval-block" style="margin-left: 12px;">
+                <div class="infoPanel.dates" style="float: left; font-size: smaller;  width: 100px"
+                     title="Дата и время"></div>
+                <div class="infoPanel.distance" style="font-size: smaller; float: left; width: 70px"
+                     title="Пройденное расстояние"></div>
+                <div class="infoPanel.deltaH" style="font-size: smaller; float: left;width: 110px"
+                     title="Набор/сброс высоты"></div>
+                <div class="infoPanel.time" style="font-size: smaller; float: left;"
+                     title="Время общее (в движении)"></div>
+                <div style="clear: both"></div>
+                <div class="infoPanel.text" style="padding: 4px;font-size: smaller; min-height: 28px; font-style: italic"></div>
+            </div>
+        </div>
+        <div class="infoPanel.photo-block" style="width: 100%; padding: 4px;  display: none" >
+            <div style="background-color: white; width: 500px; border-radius: 8px; margin: auto">
+                <p style="text-align: center; padding: 0; margin: 0 ">
+                    <img class="infoPanel.photo-img" src="" style="height: 250px; margin: 6px 6px 0 6px">
+                </p>
+                <div class="infoPanel.photo-text"
+                     style="padding: 4px;font-size: smaller; min-height: 28px; font-style: italic">
+                </div>
+            </div>
+        </div>
 
     </div>
-    <table width="100%" >
-        <tr>
-<!--            <td class="myrout__th1">Начало,км</td>-->
 
-            <td class="myrout__th1">Дата и время</td>
-            <td class="myrout__th1">Длина, км</td>
-            <td class="myrout__th1">Набор/сбос высоты</td>
-            <td class="myrout__th1">Время общее (в движении)</td>
 
-        </tr>
-        <tr>
-<!--            <td class="infoPanel.beginning"></td>-->
-            <td class="infoPanel.dates"></td>
-            <td class="infoPanel.distance"></td>
-            <td class="infoPanel.deltaH"></td>
-            <td class="infoPanel.time"></td>
-
-        </tr>
-    </table>
 </div>
+
+
+
+
+
