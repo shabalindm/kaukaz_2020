@@ -1,7 +1,7 @@
 debugger;
 var modal = initModal();
 
-//document.MY_ROUTE.setEditMode();
+document.MY_ROUTE.setEditMode();
 document.MY_ROUTE.createAPI({
     track_url: "track_kavkaz_2020_clean.gpx",
     utcOffset: "180",

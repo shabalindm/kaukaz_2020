@@ -1,7 +1,22 @@
-.main-container {
-    width: 800px;
-    margin: auto;
-}
+body	{ font-family: Arial, Helvetica, sans-serif; font-size: 10pt; max-width:1000px; margin: auto; line-height: 15pt; color: #000000; background-color: #ffffff; padding: 4pt; }
+h1	{ font-size: 16pt; padding-top: 15pt; line-height: 24pt; text-align: center; }
+h2	{ font-size: 14pt; padding-top: 15pt; line-height: 21pt; text-align: center; }
+h3	{ font-size: 12pt; line-height: 18pt; text-align: center; }
+h4	{ font-size: 11pt; line-height: 17pt; }
+p	{ text-align: justify; }
+sup	{ font-size: 8pt; line-height: 10pt;}
+sub	{ font-size: 8pt; }
+table	{ border: 1px solid #000000; border-collapse: collapse; border-spacing: 0px; }
+th, td	{ border: 1px solid #000000; padding: 5px; }
+
+hr	{ clear: both; color: black; background-color: black; border: 0; height: 1px; }
+
+
+
+.scroll		{ width: 1040px; overflow-x: scroll; margin-bottom: 4pt; margin: auto; }
+.scroll > a > img	{ margin-bottom: -4pt; }
+td.center	{ text-align: center; }
+p.center	{ text-align: center; }
 
 .day{
     font-style: italic;
