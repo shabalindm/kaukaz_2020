@@ -1,7 +1,7 @@
 debugger;
 var modal = initModal();
 
-//document.MY_ROUTE.setEditMode();
+document.MY_ROUTE.setEditMode();
 document.MY_ROUTE.createAPI({
     track_url: "track_kavkaz_2020_clean.gpx",
     utcOffset: "180",
@@ -25,6 +25,11 @@ document.MY_ROUTE.createAPI({
             api.initPhoto(photoElement)
         }
 
+        const photoLazy = document.getElementsByClassName("photo-lazy");
+        for (const photoElement of photoLazy) {
+            api.initPhoto(photoElement, "/photo-lazy-template.html")
+        }
+
         const intervalLinks =  document.getElementsByClassName("interval");
         for (const intervalLink of intervalLinks) {
             intervalLink.onclick = ()=>{
@@ -38,14 +43,7 @@ document.MY_ROUTE.createAPI({
                 return false
             };
         }
-
     });
-
-
-
-
-
-
 
 
 var coll = document.getElementsByClassName("collapsible");
