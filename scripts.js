@@ -1,4 +1,3 @@
-debugger;
 var modal = initModal();
 
 document.MY_ROUTE.setEditMode();
