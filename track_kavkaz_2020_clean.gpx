@@ -17680,78 +17680,6 @@
 			<ele>3128.75</ele>
 			<time>2020-08-07T03:34:14Z</time>
 		</trkpt>
-		<trkpt lat="43.017687" lon="43.207494">
-			<ele>3130.19</ele>
-			<time>2020-08-07T03:34:41Z</time>
-		</trkpt>
-		<trkpt lat="43.017586" lon="43.207494">
-			<ele>3130.19</ele>
-			<time>2020-08-07T03:34:55Z</time>
-		</trkpt>
-		<trkpt lat="43.017549" lon="43.207502">
-			<ele>3131.15</ele>
-			<time>2020-08-07T03:35:08Z</time>
-		</trkpt>
-		<trkpt lat="43.017522" lon="43.207560">
-			<ele>3131.15</ele>
-			<time>2020-08-07T03:35:15Z</time>
-		</trkpt>
-		<trkpt lat="43.017479" lon="43.207621">
-			<ele>3132.11</ele>
-			<time>2020-08-07T03:35:22Z</time>
-		</trkpt>
-		<trkpt lat="43.017415" lon="43.207703">
-			<ele>3131.63</ele>
-			<time>2020-08-07T03:35:34Z</time>
-		</trkpt>
-		<trkpt lat="43.017389" lon="43.207792">
-			<ele>3130.19</ele>
-			<time>2020-08-07T03:35:53Z</time>
-		</trkpt>
-		<trkpt lat="43.017395" lon="43.207774">
-			<ele>3131.15</ele>
-			<time>2020-08-07T03:36:31Z</time>
-		</trkpt>
-		<trkpt lat="43.017419" lon="43.207736">
-			<ele>3133.55</ele>
-			<time>2020-08-07T03:36:48Z</time>
-		</trkpt>
-		<trkpt lat="43.017482" lon="43.207691">
-			<ele>3134.04</ele>
-			<time>2020-08-07T03:37:00Z</time>
-		</trkpt>
-		<trkpt lat="43.017564" lon="43.207621">
-			<ele>3135.96</ele>
-			<time>2020-08-07T03:37:15Z</time>
-		</trkpt>
-		<trkpt lat="43.017635" lon="43.207557">
-			<ele>3136.92</ele>
-			<time>2020-08-07T03:37:29Z</time>
-		</trkpt>
-		<trkpt lat="43.017682" lon="43.207541">
-			<ele>3135.00</ele>
-			<time>2020-08-07T03:38:31Z</time>
-		</trkpt>
-		<trkpt lat="43.017702" lon="43.207516">
-			<ele>3135.00</ele>
-			<time>2020-08-07T03:39:39Z</time>
-		</trkpt>
-		<trkpt lat="43.017722" lon="43.207499">
-			<ele>3138.84</ele>
-			<time>2020-08-07T03:40:19Z</time>
-		</trkpt>
-		<trkpt lat="43.017732" lon="43.207482">
-			<ele>3140.28</ele>
-			<time>2020-08-07T03:47:25Z</time>
-		</trkpt>
-		<trkpt lat="43.017749" lon="43.207438">
-			<ele>3136.44</ele>
-			<time>2020-08-07T03:48:46Z</time>
-		</trkpt>
-		<trkpt lat="43.017753" lon="43.207417">
-			<ele>3143.17</ele>
-			<time>2020-08-07T03:49:18Z</time>
-		</trkpt>
 		<trkpt lat="43.017753" lon="43.207364">
 			<ele>3145.09</ele>
 			<time>2020-08-07T03:49:38Z</time>
@@ -20095,14 +20023,6 @@
 		<trkpt lat="43.033416" lon="43.164839">
 			<ele>3825.70</ele>
 			<time>2020-08-07T10:18:41Z</time>
-		</trkpt>
-		<trkpt lat="43.033458" lon="43.164722">
-			<ele>3830.99</ele>
-			<time>2020-08-07T10:27:40Z</time>
-		</trkpt>
-		<trkpt lat="43.033530" lon="43.164621">
-			<ele>3836.28</ele>
-			<time>2020-08-07T10:45:19Z</time>
 		</trkpt>
 		<trkpt lat="43.033403" lon="43.164685">
 			<ele>3832.43</ele>
