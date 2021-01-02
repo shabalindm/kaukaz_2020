@@ -19,24 +19,65 @@ td.center	{ text-align: center; }
 p.center	{ text-align: center; }
 
 .day{
-    font-style: italic;
+    font-style: italic ;
+    font-weight: bold;
     line-height: 300%;
 }
-.collapsible {
-    background-color: #777;
-    color: white;
-    cursor: pointer;
-    padding: 18px;
-    width: 100%;
+.day-stat{
+    margin-left:  20px;
+    border: none;
+    border-collapse: collapse;
+}
+.day-stat table, .day-stat tr, .day-stat td, .day-stat th {
     border: none;
     text-align: left;
-    outline: none;
-    font-size: 15px;
+}
+.day-stat td{
+    padding-right: 20px;
 }
 
-.active, .collapsible:hover {
-    background-color: #555;
+
+.collapsible{
+    display: block;
+    padding-top: 40px;
 }
+.photo-full{
+    margin: auto;
+    width: 90%;
+    padding-top: 10px;
+}
+.photo-full-img{
+    width: 100%;
+    border: 1px solid #000000;
+}
+.photo-block {
+    text-align: center;
+}
+/* Style the Image Used to Trigger the Modal */
+.photo-icon-img {
+    border-radius: 5px;
+    cursor: pointer;
+    transition: 0.3s;
+    height: 80px;
+}
+.photo-num {
+    position: absolute;
+    left: 0;
+    top: 0;
+
+    background: white;
+    opacity: 0.8;
+    border-radius: 5px;
+}
+.photo{
+    position: relative;
+    display: inline-block;
+    margin: 5px;
+    text-align: center;
+}
+
+
+.photo-icon-img:hover {opacity: 0.7;}
 
 /* The Modal (background) */
 .modal {
@@ -50,31 +91,61 @@ p.center	{ text-align: center; }
     height: 100%; /* Full height */
     overflow: auto; /* Enable scroll if needed */
     background-color: rgb(0,0,0); /* Fallback color */
-    background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+    background-color: rgba(0,0,0,0.9); /* Black w/ opacity */
 }
 
-/* Modal Content */
+/* Modal Content (Image) */
 .modal-content {
-    background-color: #fefefe;
     margin: auto;
-    padding: 8px;
-    border: 1px solid #888;
-    max-width: 500px;
+    display: block;
+    width: 80%;
+    max-width: 700px;
 }
 
+/* Caption of Modal Image (Image Text) - Same Width as the Image */
+#photo-modal-caption {
+    margin: auto;
+    display: block;
+    width: 80%;
+    max-width: 700px;
+    text-align: center;
+    color: #ccc;
+    padding: 10px 0;
+    height: 150px;
+}
+
+/* Add Animation - Zoom in the Modal */
+/*.modal-content, #modal-caption {*/
+/*    animation-name: zoom;*/
+/*    animation-duration: 0.6s;*/
+/*}*/
+
+@keyframes zoom {
+    from {transform:scale(0)}
+    to {transform:scale(1)}
+}
 
 /* The Close Button */
 .close {
-    display: none;
-    color: #aaaaaa;
-    float: right;
-    font-size: 28px;
+    position: absolute;
+    top: 15px;
+    right: 35px;
+    color: #f1f1f1;
+    font-size: 40px;
     font-weight: bold;
+    transition: 0.3s;
 }
 
 .close:hover,
 .close:focus {
-    color: #000;
+    color: #bbb;
     text-decoration: none;
     cursor: pointer;
+}
+
+/* 100% Image Width on Smaller Screens */
+@media only screen and (max-width: 700px){
+    .modal-content {
+        width: 100%;
+    }
 }
