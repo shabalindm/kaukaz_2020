@@ -28,7 +28,7 @@ function initCollapsible(photoIndex) {
                         const to = coll.dataset["to"];
                         if(to){
                             let i = photoList.indexOf(to);
-                            if(i>0) {
+                            if(i>=0) {
                                toIndex = i + 1;
                             }
                         }
