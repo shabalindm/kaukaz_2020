@@ -134,13 +134,13 @@ function initPhotosFromIcons() {
         if(!photoIndex[folder][file]){
             photoIndex[folder]["list"].push(file);
             const num =  photoIndex[folder]["list"].length;
-            photoIndex[folder][file] = {"num": folder + "."  + num, "name":  photo.dataset["name"], "url": url.replace("preview/", "")}
+            photoIndex[folder][file] = {"num": folder + "."  + num, "name":  photo.dataset["name"], "url": url}
         }
 
         let data = photoIndex[folder][file];
         const img = document.createElement("img");
         img.className = "photo-icon-img"
-        img.src = url;
+        img.src = url.replace("photos/","photos/preview/");
         img.title = data["name"];
         photo.appendChild(img);
         const div = document.createElement("div");
