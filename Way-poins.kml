@@ -1,0 +1,528 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+	<Document>
+		<name>Way poins</name>
+		<Placemark>
+			<name>Выгрузились из газели, пересели на Нивы</name>
+			<Point>
+				<coordinates>43.450606,43.132967,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Начало маршрута</name>
+			<Point>
+				<coordinates>43.349540,43.131527,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Кош</name>
+			<Point>
+				<coordinates>43.333125,43.120908,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Брод</name>
+			<Point>
+				<coordinates>43.332009,43.114502,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Обед</name>
+			<Point>
+				<coordinates>43.336542,43.113296,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Гребень отрога</name>
+			<Point>
+				<coordinates>43.340957,43.109474,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Развилка. Здесь лучше налево</name>
+			<Point>
+				<coordinates>43.341767,43.103215,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Тупик дороги</name>
+			<Point>
+				<coordinates>43.339723,43.098766,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Лучше идти здесь</name>
+			<Point>
+				<coordinates>43.333297,43.077501,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Овраг</name>
+			<Point>
+				<coordinates>43.327739,43.075479,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Гребень</name>
+			<Point>
+				<coordinates>43.322305,43.070353,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Кош</name>
+			<Point>
+				<coordinates>43.313824,43.068237,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Обед</name>
+			<Point>
+				<coordinates>43.327498,43.046507,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Промоина, спуск в низ. </name>
+			<Point>
+				<coordinates>43.330561,43.037623,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Поляна, выход за заброской к мосту</name>
+			<Point>
+				<coordinates>43.322815,43.028945,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Мост</name>
+			<Point>
+				<coordinates>43.314328,43.007346,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Кош</name>
+			<Point>
+				<coordinates>43.312461,43.006930,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Гребень</name>
+			<Point>
+				<coordinates>43.309479,43.034094,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Тропа кончилась</name>
+			<Point>
+				<coordinates>43.284009,43.027381,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Начало кармана</name>
+			<Point>
+				<coordinates>43.280725,43.027051,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Пояс бараньих лбов</name>
+			<Point>
+				<coordinates>43.244430,43.017835,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Осыпная полка</name>
+			<Point>
+				<coordinates>43.243732,43.018109,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ледовая &quot;Эстакада&quot;</name>
+			<Point>
+				<coordinates>43.240310,43.012093,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Обед</name>
+			<Point>
+				<coordinates>43.258259,43.021965,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Обед</name>
+			<Point>
+				<coordinates>43.230944,43.008107,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Кулур по конгломерату</name>
+			<Point>
+				<coordinates>43.209722,43.017482,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Конец пятой веревки</name>
+			<Point>
+				<coordinates>43.164044,43.033674,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Начало первой веревки (приближенно)</name>
+			<Point>
+				<coordinates>43.165423,43.033243,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Начало 1-й веревки</name>
+			<Point>
+				<coordinates>43.146105,43.030490,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Конец 4-й веревки</name>
+			<Point>
+				<coordinates>43.144491,43.030855,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Спуск 1 веревка</name>
+			<Point>
+				<coordinates>43.144206,43.030455,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Крутой участок на повороте ледника</name>
+			<Point>
+				<coordinates>43.128220,43.020051,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Зона трещин</name>
+			<Point>
+				<coordinates>43.127840,43.018721,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Хижина</name>
+			<Point>
+				<coordinates>43.107525,43.031259,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Наблюдательный пост пограничников, обед</name>
+			<Point>
+				<coordinates>43.077216,43.044876,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Спуск по тропе с троссовыми перилами</name>
+			<Point>
+				<coordinates>43.076658,43.045903,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Идти надо здесь</name>
+			<Point>
+				<coordinates>43.086319,43.065847,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Забрались на боковую морену, зря</name>
+			<Point>
+				<coordinates>43.114927,43.088130,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Пост пограничников</name>
+			<Point>
+				<coordinates>43.141047,43.110708,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>001</name>
+			<Point>
+				<coordinates>43.147420,43.111385,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Мост</name>
+			<Point>
+				<coordinates>43.148428,43.117118,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Начало тропы</name>
+			<Point>
+				<coordinates>43.148165,43.117377,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Выход на тропу &quot;Вертикальный километр&quot;</name>
+			<Point>
+				<coordinates>43.140993,43.122381,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Тропа исчезает</name>
+			<Point>
+				<coordinates>43.145145,43.119984,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Площадки, без воды</name>
+			<Point>
+				<coordinates>43.130511,43.126414,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Скальный пояс</name>
+			<Point>
+				<coordinates>43.125871,43.131546,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Жандармы</name>
+			<Point>
+				<coordinates>43.126616,43.136393,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Вершина 50-летия Кабардино-Балкарии</name>
+			<Point>
+				<coordinates>43.129980,43.136596,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Начало первой веревки</name>
+			<Point>
+				<coordinates>43.130184,43.136702,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Точка сбора после спуска</name>
+			<Point>
+				<coordinates>43.129240,43.138037,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Бараньи лбы</name>
+			<Point>
+				<coordinates>43.128102,43.138385,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Обед</name>
+			<Point>
+				<coordinates>43.126069,43.141015,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Начало подъема по ручью</name>
+			<Point>
+				<coordinates>43.099183,43.142542,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Правильно идти сюда</name>
+			<Point>
+				<coordinates>43.097713,43.143153,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Обед</name>
+			<Point>
+				<coordinates>43.097965,43.141497,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Выход на ледник</name>
+			<Point>
+				<coordinates>43.093679,43.135441,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Выход на осыпь</name>
+			<Point>
+				<coordinates>43.091501,43.129835,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Бергшрунд</name>
+			<Point>
+				<coordinates>43.091882,43.129796,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Подъем на гребень, 2 веревки</name>
+			<Point>
+				<coordinates>43.080263,43.113476,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Обед</name>
+			<Point>
+				<coordinates>43.080933,43.113421,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Неплохие места для ночевки</name>
+			<Point>
+				<coordinates>43.078803,43.112262,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Нунатак</name>
+			<Point>
+				<coordinates>43.048596,43.109928,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Спуск по веревке спортивным способом</name>
+			<Point>
+				<coordinates>43.048328,43.112325,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Выход на моренный гребень</name>
+			<Point>
+				<coordinates>43.038833,43.113010,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Переходим ручей по камням</name>
+			<Point>
+				<coordinates>43.030121,43.140327,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Обед</name>
+			<Point>
+				<coordinates>43.023035,43.164082,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Развилка</name>
+			<Point>
+				<coordinates>43.055087,43.210079,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>База Чегем (не работает)</name>
+			<Point>
+				<coordinates>43.025326,43.165631,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Турбаза Башиль</name>
+			<Point>
+				<coordinates>42.991261,43.205934,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Мост</name>
+			<Point>
+				<coordinates>42.989030,43.206560,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Каньон, мост</name>
+			<Point>
+				<coordinates>42.964343,43.200972,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>002</name>
+			<Point>
+				<coordinates>42.967476,43.140068,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Боковой приток</name>
+			<Point>
+				<coordinates>42.928176,43.194195,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Овраг (приближенно)</name>
+			<Point>
+				<coordinates>42.899879,43.186103,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Обед</name>
+			<Point>
+				<coordinates>42.890459,43.185649,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Зона трещин</name>
+			<Point>
+				<coordinates>42.881956,43.177540,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Лучше идти здесь</name>
+			<Point>
+				<coordinates>42.882085,43.176535,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Второй взлет ледника, ледопад</name>
+			<Point>
+				<coordinates>42.872622,43.176202,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Первый взлет ледника</name>
+			<Point>
+				<coordinates>42.883458,43.178284,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ребро</name>
+			<Point>
+				<coordinates>42.865895,43.185199,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Вершинка с отбойным молотком</name>
+			<Point>
+				<coordinates>42.867832,43.183338,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Обед</name>
+			<Point>
+				<coordinates>42.852334,43.192185,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Выход на гребень морены</name>
+			<Point>
+				<coordinates>42.848439,43.195228,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Альплагерь Уллутау</name>
+			<Point>
+				<coordinates>42.807584,43.218875,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Источник</name>
+			<Point>
+				<coordinates>42.799290,43.236316,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Подъемник (спуск по лестнице)</name>
+			<Point>
+				<coordinates>42.758837,43.302309,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Финиш</name>
+			<Point>
+				<coordinates>42.756150,43.308184,0</coordinates>
+			</Point>
+		</Placemark>
+	</Document>
+	</kml>

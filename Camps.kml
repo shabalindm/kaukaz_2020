@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+	<Document>
+		<name>Camps</name>
+		<Placemark>
+			<name>1 авг</name>
+			<Point>
+				<coordinates>43.340619,43.087594,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>2 авг</name>
+			<Point>
+				<coordinates>43.310423,43.063699,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>3 авг</name>
+			<Point>
+				<coordinates>43.328571,43.032663,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>4 авг</name>
+			<Point>
+				<coordinates>43.302022,43.031937,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>5 авг</name>
+			<Point>
+				<coordinates>43.252841,43.019764,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>6 авг</name>
+			<Point>
+				<coordinates>43.207705,43.017784,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>7 авг</name>
+			<Point>
+				<coordinates>43.162622,43.033521,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>8 авг</name>
+			<Point>
+				<coordinates>43.141959,43.029957,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>9,10 авг</name>
+			<Point>
+				<coordinates>43.147559,43.111624,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>11 авг</name>
+			<Point>
+				<coordinates>43.130608,43.127698,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>12 авг</name>
+			<Point>
+				<coordinates>43.125973,43.146714,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>13 авг</name>
+			<Point>
+				<coordinates>43.089066,43.129178,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>14 авг</name>
+			<Point>
+				<coordinates>43.073702,43.107578,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>15 авг</name>
+			<Point>
+				<coordinates>42.982357,43.205958,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>17 авг</name>
+			<Point>
+				<coordinates>42.872096,43.178464,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>18 авг</name>
+			<Point>
+				<coordinates>42.800256,43.234972,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>19 авг</name>
+			<Point>
+				<coordinates>42.459283,43.316763,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>20 авг</name>
+			<Point>
+				<coordinates>42.464036,43.298471,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>16 авг</name>
+			<Point>
+				<coordinates>42.933959,43.194977,0</coordinates>
+			</Point>
+		</Placemark>
+	</Document>
+	</kml>
